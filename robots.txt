@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ipehooca.github.io/sitemap_index.ipehooca
